@@ -76,7 +76,7 @@
 
 
 
-  /*Footer Start*/
+  /*FOOTER START*/
 
   footer {
     background: var(--primary-color);
@@ -118,3 +118,22 @@
   footer li{
     margin: 0 25px;
   }
+ /*FOOTER ENDS*/
+ 
+ /*BODY SECTION*/
+
+  .about-me {
+  text-align: center;
+  color: var(--primary-color);
+  }
+
+
+ .first-flex {
+   text-align: center;
+   flex-wrap: wrap;
+   color: var(--primary-color);
+   }
+
+   .project{
+     text-align: center;
+   }
