@@ -1,6 +1,14 @@
-# My Portfolio
+# Screenshot
 
-#Criteria
+![sreenshot1](https://user-images.githubusercontent.com/86498616/131255951-a4adf795-f3ff-4169-95fd-641db49b2734.png)
+
+
+# Link
+
+https://george1029.github.io/MyPortfolio/
+
+# CRITERIA
+
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
@@ -16,3 +24,5 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 Mock-Up
 
+# Privacy 
+none
